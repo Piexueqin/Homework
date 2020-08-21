@@ -1,0 +1,13 @@
+<resources>
+        <string name="app_name">寻花</string>
+        <string name="flw_name_ch">花名</string>
+        <string name="flw_name_en">name of the flower</string>
+        <string name="score">准确度</string>
+        <string name="score_txt">0</string>
+        <string name="description">简介</string>
+        <string name="description_txt">Oops，搜索结果暂时没有简介呢</string>
+        <string name="percent">%</string>
+        <string name="album">ALBUM</string>
+        <string name="exit">退出</string>
+        <string name="info_pic">参考图片</string>
+</resources>
